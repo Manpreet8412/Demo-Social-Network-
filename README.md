@@ -1,5 +1,5 @@
-# Demo-Social-Network-
-Project Name : Social-Network-
+# Demo-Social-Network-(FRONTEND AND BACKEND)
+Project Name : Social-Network
 
 About Project: -
 
